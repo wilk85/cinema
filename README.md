@@ -1,5 +1,6 @@
 # cinema
 pip install -r requirements.txt
+plik chromedriver.exe wrzucić do katalogu C:/chromedriver/
 
 jest to skrypy który pobiera filmy z cinema city w krakowie, 
 gdzie mamy 4 kina, bonarka, krakowplaza, kazimierz, zakopianka : te cztery kina są dodane do listy którą ręcznie można zmienić
